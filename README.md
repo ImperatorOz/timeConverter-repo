@@ -1,7 +1,7 @@
 # Time Converter.py
 
 ## Description
-A basic time conversion script in Python.
+A basic time conversion script in Python, Spanning a few lines of Python code.
 
 ## use case
 This Program below gets a number of seconds from 
