@@ -4,13 +4,13 @@ This Python script takes a user-provided number of seconds as input and converts
 
 ## Features
 
-* Simple and user-friendly interface for converting seconds.
+* Basic and user-friendly interface for converting seconds.
 * Easy to understand code for educational purposes.
 
 ### Usage
 
 1. Clone or download the repository.
-2. Run the script using 'python "timeConverter.py".
+2. Run the script using 'python timeConverter.py'.
 3. Enter the number of seconds you want to convert when prompted.
 4. The script will print the converted time in hours, minutes, and seconds.
 
@@ -19,13 +19,16 @@ This Python script takes a user-provided number of seconds as input and converts
 **Input:**
 
 ```markdown
-Enter the number of seconds: 7800
+Enter a number of seconds: 7800
 ```
 
 **Output:**
 
 ```markdown
-2 hours, 10 minutes, 0 seconds
+Here is the time in hours, minutes, and seconds:  
+Hours: 277 
+Minutes: 10 
+Seconds : 0
 ```
 
 ### Dependencies
